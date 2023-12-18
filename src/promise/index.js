@@ -8,7 +8,7 @@ const countCows = new Promise(function(resolve, reject){
     if (cows > 10){
         resolve(`We have ${cows} cows`);
     }else{
-        reject('Papi llorelo');
+        reject('Esto es un cambio bobo');
     }
 });
 
